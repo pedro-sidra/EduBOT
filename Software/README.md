@@ -8,7 +8,7 @@ Edubot.h also has functions to move EduBOT at a constant linear speed,
 or to move EduBOT a certain angle in degrees.
 
 LibSonar and LibMotor contain classes that interface with the on-board
-sonars and motors on the arduino.
+sonars and motors.
 
 Both are in development, and will be constantly updated.
 
