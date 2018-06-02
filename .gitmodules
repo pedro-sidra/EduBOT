@@ -1,0 +1,3 @@
+[submodule "Software/eduLib"]
+	path = Software/eduLib
+	url = https://github.com/pedro-sidra/eduLib.git
