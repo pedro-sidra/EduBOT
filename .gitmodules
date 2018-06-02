@@ -1,0 +1,9 @@
+[submodule "Software/eduLib"]
+	path = Software/eduLib
+	url = https://github.com/pedro-sidra/eduLib.git
+[submodule "Software/LibMotor"]
+	path = Software/LibMotor
+	url = https://github.com/pedro-sidra/LibMotor.git
+[submodule "Software/LibSonar"]
+	path = Software/LibSonar
+	url = https://github.com/pedro-sidra/LibSonar.git
