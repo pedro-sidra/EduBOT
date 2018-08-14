@@ -7,3 +7,6 @@
 [submodule "Software/LibSonar"]
 	path = Software/LibSonar
 	url = https://github.com/pedro-sidra/LibSonar.git
+[submodule "EdubotSoftware"]
+	path = EdubotSoftware
+	url = https://github.com/pedro-sidra/EdubotSoftware.git
